@@ -1,0 +1,3 @@
+INDEX VERSION 1.130+/Users/mac/startup/projects/.metadata/.plugins/org.eclipse.jdt.core
+4013607337.index
+3451164976.index
